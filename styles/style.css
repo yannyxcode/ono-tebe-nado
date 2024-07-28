@@ -1,4 +1,4 @@
-.header{
+.header { 
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     padding: 92px 50px 96px 51px;
@@ -18,7 +18,7 @@
     color: #000;
 }
 
-.header__links-list-li_active{
+.header__links-list-li_active {
     list-style: none;
 }
 
@@ -295,7 +295,7 @@
     color: #000;
 }
 
-.footer__links-list-li_active{
+.footer__links-list-li_active {
     list-style: none;
 }
 
